@@ -24,6 +24,14 @@
       link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/19842988643609",
       link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/19842988643609",
       link_en: "https://sunio.zendesk.com/hc/en-us/articles/19842988643609"
+    },
+    {
+      toast_cn: "SUN.io 改版升级公告",
+      toast_tw: "SUN.io 改版升級公告",
+      toast_en: "Announcement on SUN.io Upgrade",
+      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/21164605345433",
+      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/21164605345433",
+      link_en: "https://sunio.zendesk.com/hc/en-us/articles/21164605345433"
     }
   ]
 }
