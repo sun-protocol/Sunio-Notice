@@ -1,14 +1,6 @@
 {
-  last_update: "2023-06-28",
+  last_update: "2023-07-31",
   data: [
-    {
-      toast_cn: "关于 SUN.io 流动性矿池挖矿策略调整的公告",
-      toast_tw: "關於 SUN.io 流動性礦池挖礦策略調整的公告",
-      toast_en: "Announcement on the Mining Strategy Adjustment of Liquidity Mining Pools on SUN.io",
-      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/17814980529433",
-      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/17814980529433",
-      link_en: "https://sunio.zendesk.com/hc/en-us/articles/17814980529433"
-    },
     {
       toast_cn: "关于 SUN.io 上线新矿池的公告",
       toast_tw: "關於 SUN.io 上線新礦池的公告",
@@ -24,6 +16,14 @@
       link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/19842988643609",
       link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/19842988643609",
       link_en: "https://sunio.zendesk.com/hc/en-us/articles/19842988643609"
+    },
+    {
+      toast_cn: "SUN.io 改版升级公告",
+      toast_tw: "SUN.io 改版升級公告",
+      toast_en: "Announcement on SUN.io Upgrade",
+      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/21164605345433",
+      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/21164605345433",
+      link_en: "https://sunio.zendesk.com/hc/en-us/articles/21164605345433"
     }
   ]
 }
