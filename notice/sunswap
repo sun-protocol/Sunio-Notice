@@ -1,14 +1,6 @@
 {
-  last_update: "2023-07-13",
+  last_update: "2023-08-14",
   data: [
-    {
-      toast_cn: "关于 SUN 代币第十六期回购销毁的公告（2023年4月20日- 2023年5月18日）",
-      toast_tw: "關於 SUN 代幣第十六期回購銷毀的公告（2023年4月20日- 2023年5月18日）",
-      toast_en: "Announcement on the Phase 16th SUN Tokens Buyback & Burning ( Apr 20, 2023 to May 18, 2023)",
-      link_cn: "https://sunswap.zendesk.com/hc/zh-cn/articles/18564631556249",
-      link_tw: "https://sunswap.zendesk.com/hc/zh-cn/articles/18564631556249",
-      link_en: "https://sunswap.zendesk.com/hc/en-us/articles/18564631556249"
-    },
     {
       toast_cn: "SunSwap V3发布公告",
       toast_tw: "SunSwap V3發佈公告",
@@ -24,6 +16,14 @@
       link_cn: "https://sunswap.zendesk.com/hc/zh-cn/articles/20615571814937",
       link_tw: "https://sunswap.zendesk.com/hc/zh-cn/articles/20615571814937",
       link_en: "https://sunswap.zendesk.com/hc/en-us/articles/20615571814937"
+    },
+    {
+      toast_cn: "关于 SUN 代币第十九期回购销毁的公告（2023年7月13日- 2023年8月14日）",
+      toast_tw: "關於 SUN 代幣第十九期回購銷毀的公告（2023年7月13日- 2023年8月14日）",
+      toast_en: "Announcement on the Phase 19th SUN Tokens Buyback & Burning (Jul 13, 2023 to Aug 14, 2023)",
+      link_cn: "https://sunswap.zendesk.com/hc/zh-cn/articles/21662109406233",
+      link_tw: "https://sunswap.zendesk.com/hc/zh-cn/articles/21662109406233",
+      link_en: "https://sunswap.zendesk.com/hc/en-us/articles/21662109406233"
     }
   ]
 }
