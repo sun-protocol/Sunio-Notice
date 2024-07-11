@@ -1,14 +1,6 @@
 {
-  last_update: "2024-06-13",
-  data: [
-    {
-      toast_cn: "关于 SUN 代币第二十八期回购销毁的公告（2024年3月21日- 2024年4月18日）",
-      toast_tw: "關於 SUN 代幣第二十八期回購銷毀的公告（2024年3月21日- 2024年4月18日）",
-      toast_en: "Announcement on the Phase 28th SUN Tokens Buyback & Burning (Mar 21, 2024 to Apr 18, 2024)",
-      link_cn: "https://sunswap.zendesk.com/hc/zh-cn/articles/31370080613017",
-      link_tw: "https://sunswap.zendesk.com/hc/zh-cn/articles/31370080613017",
-      link_en: "https://sunswap.zendesk.com/hc/en-us/articles/31370080613017"
-    },
+  "last_update": "2024-07-11",
+  "data": [
     {
       "toast_cn": "关于 SUN 代币第二十九期回购销毁的公告（2024年4月18日 - 2024年5月16日）",
       "toast_tw": "關於 SUN 代幣第二十九期回購銷毀的公告（2024年4月18日 - 2024年5月16日）",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/33700870528921",
       "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/33700870528921",
       "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/33700870528921"
+    },
+    {
+      "toast_cn": "关于 SUN 代币第三十一期回购销毁的公告（2024年6月13日 - 2024年7月11日）",
+      "toast_tw": "關於 SUN 代幣第三十一期回購銷毀的公告（2024年6月13日 - 2024年7月11日）",
+      "toast_en": "Announcement on the Phase 31st SUN Tokens Buyback & Burning (June 13, 2024 to July 11, 2024)",
+      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/34935088543129",
+      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/34935088543129",
+      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/34935088543129"
     }
   ]
 }
