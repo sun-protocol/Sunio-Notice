@@ -1,14 +1,6 @@
 {
-  last_update: "2024-07-02",
+  last_update: "2024-07-11",
   data: [
-    {
-      toast_cn: "关于 SUN.IO 启动 SUN.IO-HTX DAO 合作治理计划的公告",
-      toast_tw: "關於 SUN.IO 啟動 SUN.IO-HTX DAO 合作治理計劃的公告",
-      toast_en: "Announcement on the Initiation of SUN.IO-HTX DAO Partnership Governance Program on SUN.IO",
-      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/29684500106777",
-      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/29684500106777",
-      link_en: "https://sunio.zendesk.com/hc/en-us/articles/29684500106777"
-    },
     {
       toast_cn: "关于 SUN.IO 平台功能升级的公告",
       toast_tw: "關於 SUN.IO 平臺功能升級的公告",
@@ -24,6 +16,14 @@
       link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/34499376278681",
       link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/34499376278681",
       link_en: "https://sunio.zendesk.com/hc/en-us/articles/34499376278681"
+    },
+    {
+      toast_cn: "关于 SUN.IO 平台上线 SUN DAO 论坛的公告",
+      toast_tw: "關於 SUN.IO 平台上線 SUN DAO 論壇的公告",
+      toast_en: "Announcement on the Launch of SUN DAO Forum on SUN.IO",
+      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/34891741387545",
+      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/34891741387545",
+      link_en: "https://sunio.zendesk.com/hc/en-us/articles/34891741387545"
     }
   ]
 }
