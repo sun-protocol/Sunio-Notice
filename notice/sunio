@@ -2,28 +2,28 @@
   "last_update": "2024-08-12",
   "data": [
     {
-      "toast_cn": "关于 SUN.IO 平台上线 SUN DAO 论坛的公告",
-      "toast_tw": "關於 SUN.IO 平台上線 SUN DAO 論壇的公告",
-      "toast_en": "Announcement on the Launch of SUN DAO Forum on SUN.IO",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/34891741387545",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/34891741387545",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/34891741387545"
-    },
-    {
-      "toast_cn": "关于 SUN.io 上线 SUN DAO 的公告",
-      "toast_tw": "關于 SUN.io 上線 SUN DAO 的公告",
-      "toast_en": "Announcement on the Launch of SUN DAO on SUN.io",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/35752973612057",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/35752973612057",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/35752973612057"
-    },
-    {
       "toast_cn": "关于扩展 SUN.io 的产品功能，以更好地支持 Meme 市场的提案执行的公告",
       "toast_tw": "關於擴展 SUN.io 的産品功能，以更好地支持 Meme 市場的提案執行的公告",
       "toast_en": "Announcement on the Execution of the Proposal to Expand SUN.io's Product Functionalities to Better Support the Meme Market",
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/36214467056281",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/36214467056281",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/36214467056281"
+    },
+    {
+      "toast_cn": "关于 SUN.io 上线 SunPump 的公告",
+      "toast_tw": "關於 SUN.io 上線 SunPump 的公告",
+      "toast_en": "Announcement on the Launch of SunPump on SUN.io",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/36265413580953",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/36265413580953",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/36265413580953"
+    },
+    {
+      "toast_cn": "SunPump Announcement of "Gas Fee Reduction" Campaign",
+      "toast_tw": "SunPump Announcement of "Gas Fee Reduction" Campaign",
+      "toast_en": "SunPump Announcement of "Gas Fee Reduction" Campaign",
+      "link_cn": "https://sunio.zendesk.com/hc/en-us/articles/36253380049817",
+      "link_tw": "https://sunio.zendesk.com/hc/en-us/articles/36253380049817",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/36253380049817"
     }
   ]
 }
