@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-08-12",
+  "last_update": "2024-08-30",
   "data": [
-    {
-      "toast_cn": "关于扩展 SUN.io 的产品功能，以更好地支持 Meme 市场的提案执行的公告",
-      "toast_tw": "關於擴展 SUN.io 的産品功能，以更好地支持 Meme 市場的提案執行的公告",
-      "toast_en": "Announcement on the Execution of the Proposal to Expand SUN.io's Product Functionalities to Better Support the Meme Market",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/36214467056281",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/36214467056281",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/36214467056281"
-    },
     {
       "toast_cn": "关于 SUN.io 上线 SunPump 的公告",
       "toast_tw": "關於 SUN.io 上線 SunPump 的公告",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/en-us/articles/36253380049817",
       "link_tw": "https://sunio.zendesk.com/hc/en-us/articles/36253380049817",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/36253380049817"
+    },
+    {
+      "toast_cn": "为 SunPump 上的 Meme 币投票，助它上币 HTX！",
+      "toast_tw": "為 SunPump 上的 Meme 幣投票，助它上幣 HTX！",
+      "toast_en": "Vote for Meme Coin on SunPump to Help It Get Listed on HTX!",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37050680203673",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37050680203673",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37050680203673"
     }
   ]
 }
