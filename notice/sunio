@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-09-04",
+  "last_update": "2024-09-06",
   "data": [
-    {
-      "toast_cn": "为 SunPump 上的 Meme 币投票，助它上币 HTX！",
-      "toast_tw": "為 SunPump 上的 Meme 幣投票，助它上幣 HTX！",
-      "toast_en": "Vote for Meme Coin on SunPump to Help It Get Listed on HTX!",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37050680203673",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37050680203673",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37050680203673"
-    },
     {
       "toast_cn": "关于 SUN.io 流动性矿池挖矿策略调整的公告",
       "toast_tw": "關於 SUN.io 流動性礦池挖礦策略調整的公告",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37232111323033",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37232111323033",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37232111323033"
+    },
+    {
+      "toast_cn": "SunPump官方公告：关于虚假网站风险的安全提示",
+      "toast_tw": "SunPump官方公告：關於虛假網站風險的安全提示",
+      "toast_en": "Important Notice from SunPump: Beware of Fake Websites",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37347001634329",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37347001634329",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37347001634329"
     }
   ]
 }
