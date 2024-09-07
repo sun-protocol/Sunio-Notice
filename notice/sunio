@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-09-06",
+  "last_update": "2024-09-07",
   "data": [
-    {
-      "toast_cn": "关于 SUN.io 流动性矿池挖矿策略调整的公告",
-      "toast_tw": "關於 SUN.io 流動性礦池挖礦策略調整的公告",
-      "toast_en": "Announcement on the Mining Strategy Adjustment of Liquidity Mining Pools on SUN.io",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37231997063961",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37231997063961",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37231997063961"
-    },
     {
       "toast_cn": "关于警惕仿冒 SunPump 官方账号的公告",
       "toast_tw": "關於警惕仿冒 SunPump 官方帳號的公告",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37347001634329",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37347001634329",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37347001634329"
+    },
+    {
+      "toast_cn": "SUN.io 平台提供 99% 能量费用补贴 助力 TRON 生态系统发展",
+      "toast_tw": "SUN.io 平台提供 99% 能量費用補貼 協助 TRON 生態系統發展",
+      "toast_en": "SUN.io platform offers a 99% energy fee subsidy to support the development of the TRON ecosystem",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37393930839449",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37393930839449",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37393930839449"
     }
   ]
 }
