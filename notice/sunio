@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-09-10",
+  "last_update": "2024-09-14",
   "data": [
-    {
-      "toast_cn": "SunPump官方公告：关于虚假网站风险的安全提示",
-      "toast_tw": "SunPump官方公告：關於虛假網站風險的安全提示",
-      "toast_en": "Important Notice from SunPump: Beware of Fake Websites",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37347001634329",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37347001634329",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37347001634329"
-    },
     {
       "toast_cn": "SUN.io 平台提供 99% 能量费用补贴 助力 TRON 生态系统发展",
       "toast_tw": "SUN.io 平台提供 99% 能量費用補貼 協助 TRON 生態系統發展",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37530683938457",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37530683938457",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37530683938457"
+    },
+    {
+      "toast_cn": "关于 SunBoost 上线 ROCK/TRX 矿池的公告",
+      "toast_tw": "關於 SunBoost 上線 ROCK/TRX 礦池的公告",
+      "toast_en": "Announcement On the Launch of the ROCK/TRX Mining Pool on SunBoost",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37705114777625",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37705114777625",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37705114777625"
     }
   ]
 }
