@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-09-23",
+  "last_update": "2024-09-25",
   "data": [
-    {
-      "toast_cn": "SUN.io 平台 SunSwap V3 路由合约升级，交易能量费用降至 1%",
-      "toast_tw": "SUN.io 平台 SunSwap V3 路由合約升級，交易能源費用降至 1%",
-      "toast_en": "SUN.io Platform Updates SunSwap V3 Router Contract, Reduces Transaction Energy Fee to 1%",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37839082907545",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37839082907545",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37839082907545"
-    },
     {
       "toast_cn": "关于 SunBoost 上线 PSYOP/TRX 矿池的公告",
       "toast_tw": "關於 SunBoost 上線 PSYOP/TRX 礦池的公告",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38047545291033",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38047545291033",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38047545291033"
+    },
+    {
+      "toast_cn": "关于 SunBoost 上线 VIKITA/TRX 矿池的公告",
+      "toast_tw": "關於 SunBoost 上線 VIKITA/TRX 礦池的公告",
+      "toast_en": "Announcement on the Launch of the VIKITA/TRX Mining Pool on SunBoost",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38098585026457",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38098585026457",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38098585026457"
     }
   ]
 }
