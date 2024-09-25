@@ -2,14 +2,6 @@
   "last_update": "2024-09-25",
   "data": [
     {
-      "toast_cn": "关于 SunBoost 上线 PSYOP/TRX 矿池的公告",
-      "toast_tw": "關於 SunBoost 上線 PSYOP/TRX 礦池的公告",
-      "toast_en": "Announcement On the Launch of the PSYOP/TRX Mining Pool on SunBoost",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/37839181453721",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/37839181453721",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/37839181453721"
-    },
-    {
       "toast_cn": "关于 “888 TRX” Meme 创作者激励活动正式启动的公告",
       "toast_tw": "關於 “888 TRX” Meme 創作者激勵活動正式啟動的公告",
       "toast_en": "Announcement: Launch of the “888 TRX” Meme Creator Incentive Campaign",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38098585026457",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38098585026457",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38098585026457"
+    },
+    {
+      "toast_cn": "关于 SunBoost 上线 SUNJOKER/TRX 矿池的公告",
+      "toast_tw": "關於 SunBoost 上線 SUNJOKER/TRX 礦池的公告",
+      "toast_en": "Announcement on the Launch of the SUNJOKER/TRX Mining Pool on SunBoost",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38136206319129",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38136206319129",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38136206319129"
     }
   ]
 }
