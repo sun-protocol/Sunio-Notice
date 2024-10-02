@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-09-26",
+  "last_update": "2024-10-02",
   "data": [
-    {
-      "toast_cn": "关于 SunBoost 上线 VIKITA/TRX 矿池的公告",
-      "toast_tw": "關於 SunBoost 上線 VIKITA/TRX 礦池的公告",
-      "toast_en": "Announcement on the Launch of the VIKITA/TRX Mining Pool on SunBoost",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38098585026457",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38098585026457",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38098585026457"
-    },
     {
       "toast_cn": "关于 SunBoost 上线 SUNJOKER/TRX 矿池的公告",
       "toast_tw": "關於 SunBoost 上線 SUNJOKER/TRX 礦池的公告",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38179164121497",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38179164121497",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38179164121497"
+    },
+    {
+      "toast_cn": "SunPump首届 “League of Meme Legends” 交易大赛",
+      "toast_tw": "SunPump首屆 “League of Meme Legends” 交易比賽",
+      "toast_en": "SunPump’s 1st “League of Meme Legends” Trading Competition",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/38373074214425",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/38373074214425",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/38373074214425"
     }
   ]
 }
