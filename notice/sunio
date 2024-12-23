@@ -1,14 +1,6 @@
 {
-  "last_update": "2024-12-02",
+  "last_update": "2024-12-23",
   "data": [
-    {
-      "toast_cn": "SunPump Referral 计划 1.0",
-      "toast_tw": "SunPump Referral 計劃 1.0",
-      "toast_en": "SunPump Referral Program 1.0",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/39437817872025",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/39437817872025",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/39437817872025"
-    },
     {
       "toast_cn": "SunPump “疯狂大转盘“活动（1期）",
       "toast_tw": "SunPump “瘋狂大轉盤“活動（1期）",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/40657319474073",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/40657319474073",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/40657319474073"
+    },
+    {
+      "toast_cn": "🚀 SunPump全新功能：AI 助手 - Tron首个AI Agent！ 🚀",
+      "toast_tw": "🚀 SunPump全新功能：AI 助手 - Tron首個AI Agent！ 🚀",
+      "toast_en": "🚀 SunPump’s New Feature: AI Assistant – The First AI Agent on Tron! 🚀",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/41520690683673",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/41520690683673",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/41520690683673"
     }
   ]
 }
