@@ -1,14 +1,6 @@
 {
-  "last_update": "2025-01-15",
+  "last_update": "2025-01-21",
   "data": [
-    {
-      "toast_cn": "🚀 SunPump全新功能：AI 助手 - Tron首个AI Agent！ 🚀",
-      "toast_tw": "🚀 SunPump全新功能：AI 助手 - Tron首個AI Agent！ 🚀",
-      "toast_en": "🚀 SunPump’s New Feature: AI Assistant – The First AI Agent on Tron! 🚀",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/41520690683673",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/41520690683673",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/41520690683673"
-    },
     {
       "toast_cn": "SunPump AI Assistant限时活动奖励公布",
       "toast_tw": "SunPump AI Assistant限時活動獎勵公佈",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/42381831629081",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/42381831629081",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/42381831629081"
+    },
+    {
+      "toast_cn": "向SunAgent祈福，领8.8万TRX新春红包！",
+      "toast_tw": "向SunAgent祈福，領8.8萬TRX新春紅包！",
+      "toast_en": "Send Blessings to SunAgent and Claim Your 88,000 TRX New Year Red Envelopes!",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/42563400341017",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/42563400341017",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/42563400341017"
     }
   ]
 }
