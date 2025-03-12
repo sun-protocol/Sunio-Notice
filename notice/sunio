@@ -1,14 +1,6 @@
 {
-  "last_update": "2025-02-10",
+  "last_update": "2025-03-12",
   "data": [
-    {
-      "toast_cn": "向SunAgent祈福，领8.8万TRX新春红包！",
-      "toast_tw": "向SunAgent祈福，領8.8萬TRX新春紅包！",
-      "toast_en": "Send Blessings to SunAgent and Claim Your 88,000 TRX New Year Red Envelopes!",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/42563400341017",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/42563400341017",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/42563400341017"
-    },
     {
       "toast_cn": "关于 SUN.io 上线全新 USDD 2pool (USDD+USDT) 的公告",
       "toast_tw": "關於 SUN.io 上線全新 USDD 2pool (USDD+USDT) 的公告",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/43335688327961",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/43335688327961",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/43335688327961"
+    },
+    {
+      "toast_cn": "钓鱼警告：请确保您打开的网址是 https://sun.io，并仔细检查其准确性。",
+      "toast_tw": "釣魚警告：請確保您打開的網址是 https://sun.io，並仔細檢查其準確性。",
+      "toast_en": "Phishing Warning: Please ensure you are visiting the correct website:https://sun.io, and double-check its accuracy.",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44427951384473",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44427951384473",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44427951384473"
     }
   ]
 }
