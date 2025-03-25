@@ -1,14 +1,6 @@
 {
-  "last_update": "2025-03-19",
+  "last_update": "2025-03-25",
   "data": [
-    {
-      "toast_cn": "关于 SUN.io 在 PSM 中支持兑换全新 USDD 的公告",
-      "toast_tw": "關於 SUN.io 在 PSM 中支持兌換全新 USDD 的公告",
-      "toast_en": "Announcement on SUN.io Supporting the Swap of the New USDD in PSM",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/43335688327961",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/43335688327961",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/43335688327961"
-    },
     {
       "toast_cn": "钓鱼警告：请确保您打开的网址是 https://sun.io，并仔细检查其准确性。",
       "toast_tw": "釣魚警告：請確保您打開的網址是 https://sun.io，並仔細檢查其準確性。",
@@ -24,6 +16,14 @@
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44714827628441"
+    },
+    {
+      "toast_cn": "关于 SUN.io 平台能量补贴的详细说明",
+      "toast_tw": "關於 SUN.io 平颱能量補貼的詳細説明",
+      "toast_en": "Detailed Explanation of Energy Subsidies on the SUN.io Platform",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44930548870553",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44930548870553",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44930548870553"
     }
   ]
 }
