@@ -10,20 +10,20 @@
       "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/44428493334937"
     },
     {
-      "toast_cn": "关于 SUN 代币第四十二期回购销毁的公告（2025年4月17日 - 2025年5月15日）",
-      "toast_tw": "關於 SUN 代幣第四十二期回購銷毀的公告（2025年4月17日 - 2025年5月15日）",
-      "toast_en": "Announcement on the Phase 42nd SUN Tokens Buyback & Burning (Apr 17, 2025 to May 15, 2025)",
-      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/46951680503961",
-      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/46951680503961",
-      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/46951680503961"
-    },
-    {
       "toast_cn": "关于 SUN 代币第四十三期回购销毁的公告（2025年5月15日 - 2025年6月12日）",
       "toast_tw": "關於 SUN 代幣第四十三期回購銷毀的公告（2025年5月15日 - 2025年6月12日）",
       "toast_en": "Announcement on the Phase 43rd SUN Tokens Buyback & Burning (May 15, 2025 to June 12, 2025)",
       "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/47901359281689",
       "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/47901359281689",
       "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/47901359281689"
+    },
+    {
+      "toast_cn": "关于 SunPump 收入全部用于回购销毁 SUN 的公告（第二期）",
+      "toast_tw": "關於 SunPump 收入全部用於回購銷毀 SUN 的公告（第二期）",
+      "toast_en": "Announcement on the Buyback & Burning of SUN Tokens Using All SunPump Revenue (Phase 2)",
+      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/48481702922905",
+      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/48481702922905",
+      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/48481702922905"
     },
   ]
 }
