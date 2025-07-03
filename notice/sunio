@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-03-25",
+  "last_update": "2025-07-03",
   "data": [
     {
       "toast_cn": "钓鱼警告：请确保您打开的网址是 https://sun.io，并仔细检查其准确性。",
@@ -7,7 +7,9 @@
       "toast_en": "Phishing Warning: Please ensure you are visiting the correct website:https://sun.io, and double-check its accuracy.",
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44427951384473",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44427951384473",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44427951384473"
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44427951384473",
+      "image": "",
+      "date": "2025-03-18"
     },
     {
       "toast_cn": "SunGenX：发推即发币——你的SunPump之旅，从一条推文开始！",
@@ -15,7 +17,9 @@
       "toast_en": "SunGenX: Tweet, Meme, Launch—Your SunPump journey starts with a tweet!",
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44714827628441"
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44714827628441",
+      "image": "",
+      "date": "2025-03-19"
     },
     {
       "toast_cn": "关于 SUN.io 平台能量补贴的详细说明",
@@ -23,7 +27,9 @@
       "toast_en": "Detailed Explanation of Energy Subsidies on the SUN.io Platform",
       "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44930548870553",
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44930548870553",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44930548870553"
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44930548870553",
+      "image": "",
+      "date": "2025-04-02"
     }
   ]
 }
