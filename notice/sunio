@@ -1,7 +1,17 @@
 {
-  "last_update": "2025-07-07",
+  "last_update": "2025-07-11",
   "data": [
-     {
+    {
+      "toast_cn": "关于 SUN.io 平台 USDDOLD 的重要说明",
+      "toast_tw": "關於 SUN.io 平台 USDDOLD 的重要說明",
+      "toast_en": "Important Notice Regarding USDDOLD on SUN.io",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48779519891737",
+      "image": "",
+      "date": "2025-07-11"
+    },
+    {
       "toast_cn": "SunGenX 夏日冰爽节｜16天发币狂欢，$5000空投开启",
       "toast_tw": "SunGenX 夏日冰爽節｜16天發幣狂歡，$5000空投開啟",
       "toast_en": "SunGenX Summer Chill Fest | 16 Days of Meme-Launching Fun & $5,000 Airdrop Begins!",
@@ -10,17 +20,7 @@
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48632047133977",
       "image": "",
       "date": "2025-07-07"
-    },
-    {
-      "toast_cn": "关于 SUN.io 平台能量补贴的详细说明",
-      "toast_tw": "關於 SUN.io 平颱能量補貼的詳細説明",
-      "toast_en": "Detailed Explanation of Energy Subsidies on the SUN.io Platform",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44930548870553",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44930548870553",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44930548870553",
-      "image": "",
-      "date": "2025-04-02"
-    },
+   },
    {
       "toast_cn": "钓鱼警告：请确保您打开的网址是 https://sun.io，并仔细检查其准确性。",
       "toast_tw": "釣魚警告：請確保您打開的網址是 https://sun.io，並仔細檢查其準確性。",
