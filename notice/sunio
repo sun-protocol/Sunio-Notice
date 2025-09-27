@@ -9,8 +9,10 @@
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/50128783219097",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/50128783219097",
       "image": "",
-      "date": "2025-08-26"
-   },  
+      "date_cn": "8月26, 2025",
+      "date_tw": "8月26, 2025",
+      "date_en": "August 26, 2025"
+   },
   {
       "toast_cn": "关于 SUN.io 平台 USDDOLD 的重要说明",
       "toast_tw": "關於 SUN.io 平台 USDDOLD 的重要說明",
@@ -19,7 +21,9 @@
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48779519891737",
       "image": "",
-      "date": "2025-07-11"
+      "date_cn": "7月11日, 2025",
+      "date_tw": "7月11日, 2025",
+      "date_en": "July 11, 2025"
     },
   {
       "toast_cn": "关于 SUN 代币第四十四期回购销毁的公告（2025年6月12日 - 2025年7月10日）",
@@ -29,7 +33,9 @@
       "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/48746922814617",
       "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/48746922814617",
       "image": "",
-      "date": "2025-07-10"
+      "date_cn": "7月10日, 2025",
+      "date_tw": "7月10日, 2025",
+      "date_en": "July 10, 2025"
 },
 {
       "toast_cn": "SunGenX 夏日冰爽节｜16天发币狂欢，$5000空投开启",
@@ -39,7 +45,9 @@
       "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48632047133977",
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48632047133977",
       "image": "",
-      "date": "2025-07-07"
+      "date_cn": "7月7日, 2025",
+      "date_tw": "7月7日, 2025",
+      "date_en": "July 7, 2025"
     }
   ]
 }
