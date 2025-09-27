@@ -1,37 +1,35 @@
 {
-  last_update: "2023-06-28",
-  data: [
-    {
-      toast_cn: "关于 SUN.io 流动性矿池挖矿策略调整的公告",
-      toast_tw: "關於 SUN.io 流動性礦池挖礦策略調整的公告",
-      toast_en: "Announcement on the Mining Strategy Adjustment of Liquidity Mining Pools on SUN.io",
-      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/17814980529433",
-      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/17814980529433",
-      link_en: "https://sunio.zendesk.com/hc/en-us/articles/17814980529433"
+  "last_update": "2025-08-26",
+  "data": [
+  {        
+      "toast_cn": "关于 SUN.io 平台 USDJ 的重要说明",
+      "toast_tw": "關於 SUN.io 平台 USDJ 的重要說明",
+      "toast_en": "Important Notice Regarding USDJ on SUN.io",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/50128783219097",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/50128783219097",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/50128783219097",
+      "image": "",
+      "date": "2025-08-26"
+   },  
+  {
+      "toast_cn": "关于 SUN.io 平台 USDDOLD 的重要说明",
+      "toast_tw": "關於 SUN.io 平台 USDDOLD 的重要說明",
+      "toast_en": "Important Notice Regarding USDDOLD on SUN.io",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48779519891737",
+      "image": "",
+      "date": "2025-07-11"
     },
-    {
-      toast_cn: "关于 SUN.io 上线新矿池的公告",
-      toast_tw: "關於 SUN.io 上線新礦池的公告",
-      toast_en: "Announcement on the Launch of New Mining Pools on SUN.io",
-      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/18610139761817",
-      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/18610139761817",
-      link_en: "https://sunio.zendesk.com/hc/en-us/articles/18610139761817"
+   {
+      "toast_cn": "SunGenX 夏日冰爽节｜16天发币狂欢，$5000空投开启",
+      "toast_tw": "SunGenX 夏日冰爽節｜16天發幣狂歡，$5000空投開啟",
+      "toast_en": "SunGenX Summer Chill Fest | 16 Days of Meme-Launching Fun & $5,000 Airdrop Begins!",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/48632047133977",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48632047133977",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48632047133977",
+      "image": "",
+      "date": "2025-07-07"
     },
-    {
-      toast_cn: "SunSwap V3发布公告",
-      toast_tw: "SunSwap V3發佈公告",
-      toast_en: "Announcement on Launching SunSwap V3",
-      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/19842988643609",
-      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/19842988643609",
-      link_en: "https://sunio.zendesk.com/hc/en-us/articles/19842988643609"
-    },
-    {
-      toast_cn: "SUN.io 改版升级公告",
-      toast_tw: "SUN.io 改版升級公告",
-      toast_en: "Announcement on SUN.io Upgrade",
-      link_cn: "https://sunio.zendesk.com/hc/zh-cn/articles/21164605345433",
-      link_tw: "https://sunio.zendesk.com/hc/zh-cn/articles/21164605345433",
-      link_en: "https://sunio.zendesk.com/hc/en-us/articles/21164605345433"
-    }
   ]
 }
