@@ -21,7 +21,17 @@
       "image": "",
       "date": "2025-07-11"
     },
-   {
+  {
+      "toast_cn": "关于 SUN 代币第四十四期回购销毁的公告（2025年6月12日 - 2025年7月10日）",
+      "toast_tw": "關於 SUN 代幣第四十四期回購銷毀的公告（2025年6月12日 - 2025年7月10日）",
+      "toast_en": "Announcement on the Phase 44th SUN Tokens Buyback & Burning (June 12, 2025 to July 10, 2025)",
+      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/48746922814617",
+      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/48746922814617",
+      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/48746922814617",
+      "image": "",
+      "date": "2025-07-10"
+},
+{
       "toast_cn": "SunGenX 夏日冰爽节｜16天发币狂欢，$5000空投开启",
       "toast_tw": "SunGenX 夏日冰爽節｜16天發幣狂歡，$5000空投開啟",
       "toast_en": "SunGenX Summer Chill Fest | 16 Days of Meme-Launching Fun & $5,000 Airdrop Begins!",
@@ -30,6 +40,6 @@
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48632047133977",
       "image": "",
       "date": "2025-07-07"
-    },
+    }
   ]
 }
