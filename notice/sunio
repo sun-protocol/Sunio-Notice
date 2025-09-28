@@ -27,20 +27,7 @@
       "date_tw": "7月11日, 2025",
       "date_en": "July 11, 2025"
     },
-  {
-      "toast_cn": "关于 SUN 代币第四十四期回购销毁的公告（2025年6月12日 - 2025年7月10日）",
-      "toast_tw": "關於 SUN 代幣第四十四期回購銷毀的公告（2025年6月12日 - 2025年7月10日）",
-      "toast_en": "Announcement on the Phase 44th SUN Tokens Buyback & Burning (June 12, 2025 to July 10, 2025)",
-      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/48746922814617",
-      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/48746922814617",
-      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/48746922814617",
-      "image": "",
-      "date": "2025-07-10",
-      "date_cn": "7月10日, 2025",
-      "date_tw": "7月10日, 2025",
-      "date_en": "July 10, 2025"
-},
-{
+    {
       "toast_cn": "SunGenX 夏日冰爽节｜16天发币狂欢，$5000空投开启",
       "toast_tw": "SunGenX 夏日冰爽節｜16天發幣狂歡，$5000空投開啟",
       "toast_en": "SunGenX Summer Chill Fest | 16 Days of Meme-Launching Fun & $5,000 Airdrop Begins!",
@@ -52,6 +39,19 @@
       "date_cn": "7月7日, 2025",
       "date_tw": "7月7日, 2025",
       "date_en": "July 7, 2025"
+    },
+    {
+      "toast_cn": "SunGenX：发推即发币——你的SunPump之旅，从一条推文开始！",
+      "toast_tw": "SunGenX：髮推即髮幣——你的SunPump之旅，從一條推文開始！",
+      "toast_en": "SunGenX: Tweet, Meme, Launch—Your SunPump journey starts with a tweet!",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44714827628441",
+      "image": "",
+      "date": "2025-03-19",
+      "date_cn": "3月19日, 2025",
+      "date_tw": "3月19日, 2025",
+      "date_en": "March 19, 2025"
     }
   ]
 }
