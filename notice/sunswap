@@ -1,7 +1,17 @@
 {
-  "last_update": "2025-10-09",
+  "last_update": "2025-11-03",
   "data": [
-      {
+    {
+      "toast_cn": "关于 SUN 代币第四十八期回购销毁的公告（2025年10月9日 - 2025年11月3日）",
+      "toast_tw": "關於 SUN 代幣第四十八期回購銷毀的公告（2025年10月9日 - 2025年11月3日）",
+      "toast_en": "Announcement on the Phase 48th SUN Tokens Buyback & Burning (October 9, 2025 to November 3, 2025)",
+      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/52104611510169",
+      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/52104611510169",
+      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/52104611510169",
+      "image": "",
+      "date": "2025-11-03"
+    },    
+  {
       "toast_cn": "关于 SUN 代币第四十七期回购销毁的公告（2025年9月4日 - 2025年10月9日）",
       "toast_tw": "關於 SUN 代幣第四十七期回購銷毀的公告（2025年9月4日 - 2025年10月9日）",
       "toast_en": "Announcement on the Phase 47th SUN Tokens Buyback & Burning (September 4, 2025 to October 9, 2025)",
@@ -11,16 +21,6 @@
       "image": "",
       "date": "2025-10-09"
     },  
-    {
-      "toast_cn": "关于 SUN 代币第四十六期回购销毁的公告（2025年8月7日 - 2025年9月4日）",
-      "toast_tw": "關於 SUN 代幣第四十六期回購銷毀的公告（2025年8月7日 - 2025年9月4日）",
-      "toast_en": "Announcement on the Phase 46th SUN Tokens Buyback & Burning (August 7, 2025 to September 4, 2025)",
-      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/50406471928985",
-      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/50406471928985",
-      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/50406471928985",
-      "image": "",
-      "date": "2025-09-04"
-    },
     {
       "toast_cn": "钓鱼警告：请确保您打开的网址是 https://sunswap.com，并仔细检查其准确性。",
       "toast_tw": "釣魚警告：請確保您打開的網址是 https://sunswap.com，並仔細檢查其準確性。",
