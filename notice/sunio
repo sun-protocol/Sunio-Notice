@@ -1,6 +1,19 @@
 {
-  "last_update": "2025-08-26",
+  "last_update": "2025-11-18",
   "data": [
+   {        
+      "toast_cn": "关于 SUN.io 流动性矿池资产提取的公告",
+      "toast_tw": "關於 SUN.io 流動性礦池資產提取的公告",
+      "toast_en": "Announcement on the Withdrawal of Assets from SUN.io Liquidity Mining Pools",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/52543290860825",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/52543290860825",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/52543290860825",
+      "image": "",
+      "date": "2025-11-18",
+      "date_cn": 11月18, 2025",
+      "date_tw": "11月18, 2025",
+      "date_en": "November 18, 2025"
+   },
   {        
       "toast_cn": "关于 SUN.io 平台 USDJ 的重要说明",
       "toast_tw": "關於 SUN.io 平台 USDJ 的重要說明",
@@ -39,19 +52,6 @@
       "date_cn": "7月7日, 2025",
       "date_tw": "7月7日, 2025",
       "date_en": "July 7, 2025"
-    },
-    {
-      "toast_cn": "SunGenX：发推即发币——你的SunPump之旅，从一条推文开始！",
-      "toast_tw": "SunGenX：髮推即髮幣——你的SunPump之旅，從一條推文開始！",
-      "toast_en": "SunGenX: Tweet, Meme, Launch—Your SunPump journey starts with a tweet!",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/44714827628441",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/44714827628441",
-      "image": "",
-      "date": "2025-03-19",
-      "date_cn": "3月19日, 2025",
-      "date_tw": "3月19日, 2025",
-      "date_en": "March 19, 2025"
     }
   ]
 }
