@@ -1,6 +1,16 @@
 {
-  "last_update": "2025-11-03",
+  "last_update": "2025-11-27",
   "data": [
+    {
+      "toast_cn": "关于 SUN 代币第四十九期回购销毁的公告（2025年11月3日 - 2025年11月27日）",
+      "toast_tw": "關於 SUN 代幣第四十九期回購銷毀的公告（2025年11月3日 - 2025年11月27日）",
+      "toast_en": "Announcement on the Phase 49th SUN Tokens Buyback & Burning (November 3, 2025 to November 27, 2025)",
+      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/52815719814425",
+      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/52815719814425",
+      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/52815719814425",
+      "image": "",
+      "date": "2025-11-27"
+    },  
     {
       "toast_cn": "关于 SUN 代币第四十八期回购销毁的公告（2025年10月9日 - 2025年11月3日）",
       "toast_tw": "關於 SUN 代幣第四十八期回購銷毀的公告（2025年10月9日 - 2025年11月3日）",
@@ -11,16 +21,7 @@
       "image": "",
       "date": "2025-11-03"
     },    
-  {
-      "toast_cn": "关于 SUN 代币第四十七期回购销毁的公告（2025年9月4日 - 2025年10月9日）",
-      "toast_tw": "關於 SUN 代幣第四十七期回購銷毀的公告（2025年9月4日 - 2025年10月9日）",
-      "toast_en": "Announcement on the Phase 47th SUN Tokens Buyback & Burning (September 4, 2025 to October 9, 2025)",
-      "link_cn": "https://sunswap.zendesk.com/hc/zh-cn/articles/51381164923289",
-      "link_tw": "https://sunswap.zendesk.com/hc/zh-cn/articles/51381164923289",
-      "link_en": "https://sunswap.zendesk.com/hc/en-us/articles/51381164923289",
-      "image": "",
-      "date": "2025-10-09"
-    },  
+
     {
       "toast_cn": "钓鱼警告：请确保您打开的网址是 https://sunswap.com，并仔细检查其准确性。",
       "toast_tw": "釣魚警告：請確保您打開的網址是 https://sunswap.com，並仔細檢查其準確性。",
