@@ -1,7 +1,20 @@
 {
-  "last_update": "2025-11-18",
+  "last_update": "2025-12-30",
   "data": [
-   {        
+  {
+      "toast_cn": "关于 SUN.io 智能路由与 V2 路由合约升级及能量补贴调整的公告",
+      "toast_tw": "關於 SUN.io 智能路由與 V2 路由合約升級及能量補貼調整的公告",
+      "toast_en": "Announcement on the Upgrade of SUN.io Smart Router and V2 Router Contracts, and Adjustments to Energy Subsidies",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/53327183802265",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/53327183802265",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/53327183802265",
+      "image": "",
+      "date": "2025-12-30",
+      "date_cn": "12月30日, 2025",
+      "date_tw": "12月30日, 2025",
+      "date_en": "December 30, 2025"
+  },
+  {        
       "toast_cn": "关于 SUN.io 流动性矿池资产提取的公告",
       "toast_tw": "關於 SUN.io 流動性礦池資產提取的公告",
       "toast_en": "Announcement on the Withdrawal of Assets from SUN.io Liquidity Mining Pools",
@@ -39,19 +52,6 @@
       "date_cn": "7月11日, 2025",
       "date_tw": "7月11日, 2025",
       "date_en": "July 11, 2025"
-    },
-    {
-      "toast_cn": "SunGenX 夏日冰爽节｜16天发币狂欢，$5000空投开启",
-      "toast_tw": "SunGenX 夏日冰爽節｜16天發幣狂歡，$5000空投開啟",
-      "toast_en": "SunGenX Summer Chill Fest | 16 Days of Meme-Launching Fun & $5,000 Airdrop Begins!",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/48632047133977",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48632047133977",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48632047133977",
-      "image": "",
-      "date": "2025-07-07",
-      "date_cn": "7月7日, 2025",
-      "date_tw": "7月7日, 2025",
-      "date_en": "July 7, 2025"
     }
   ]
 }
