@@ -1,6 +1,19 @@
 {
-  "last_update": "2025-12-30",
+  "last_update": "2026-01-07",
   "data": [
+  {
+      "toast_cn": "关于 SUN.io V2 路由合约更新部署的公告",
+      "toast_tw": "關於 SUN.io V2 路由合約更新部署的公告",
+      "toast_en": "Announcement on the Updated Deployment of SUN.io V2 Router Contract",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/53994815712281",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/53994815712281",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/53994815712281",
+      "image": "",
+      "date": "2026-01-07",
+      "date_cn": "1月7日, 2026",
+      "date_tw": "1月7日, 2026",
+      "date_en": "January 7, 2026"
+  },
   {
       "toast_cn": "关于 SUN.io 智能路由与 V2 路由合约升级及能量补贴调整的公告",
       "toast_tw": "關於 SUN.io 智能路由與 V2 路由合約升級及能量補貼調整的公告",
@@ -39,19 +52,6 @@
       "date_cn": "8月26, 2025",
       "date_tw": "8月26, 2025",
       "date_en": "August 26, 2025"
-   },
-  {
-      "toast_cn": "关于 SUN.io 平台 USDDOLD 的重要说明",
-      "toast_tw": "關於 SUN.io 平台 USDDOLD 的重要說明",
-      "toast_en": "Important Notice Regarding USDDOLD on SUN.io",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/48779519891737",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/48779519891737",
-      "image": "",
-      "date": "2025-07-11",
-      "date_cn": "7月11日, 2025",
-      "date_tw": "7月11日, 2025",
-      "date_en": "July 11, 2025"
-    }
+   }
   ]
 }
