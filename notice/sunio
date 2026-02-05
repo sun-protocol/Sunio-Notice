@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-01-23",
+  "last_update": "2026-02-05",
   "data": [
+    {        
+      "toast_cn": "关于 SUN.io 智能路由系统全新升级，引入 Universal Router 与 Permit2 协议的公告",
+      "toast_tw": "關於 SUN.io 智能路由系統全新升級，引入 Universal Router 與 Permit2 協議的公告",
+      "toast_en": "Announcement on SUN.io Smart Router Upgrade: Introducing Universal Router & Permit2 Protocols",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/54899665032601",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/54899665032601",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/54899665032601",
+      "image": "",
+      "date": "2026-02-05",
+      "date_cn": "2月5日, 2026",
+      "date_tw": "2月5日, 2026",
+      "date_en": "February 5, 2026"
+   },
   {        
       "toast_cn": "关于 SUN.io 上线 WBTC/USDT LP 矿池的公告",
       "toast_tw": "關於 SUN.io 上線 WBTC/USDT LP 礦池的公告",
@@ -10,8 +23,8 @@
       "link_en": "https://sunio.zendesk.com/hc/en-us/articles/54502582770841",
       "image": "",
       "date": "2026-01-23",
-      "date_cn": "1月23, 2026",
-      "date_tw": "1月23, 2026",
+      "date_cn": "1月23日, 2026",
+      "date_tw": "1月23日, 2026",
       "date_en": "January 23, 2026"
    },  
    {
@@ -39,19 +52,6 @@
       "date_cn": "12月30日, 2025",
       "date_tw": "12月30日, 2025",
       "date_en": "December 30, 2025"
-  },
-  {        
-      "toast_cn": "关于 SUN.io 流动性矿池资产提取的公告",
-      "toast_tw": "關於 SUN.io 流動性礦池資產提取的公告",
-      "toast_en": "Announcement on the Withdrawal of Assets from SUN.io Liquidity Mining Pools",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/52543290860825",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/52543290860825",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/52543290860825",
-      "image": "",
-      "date": "2025-11-18",
-      "date_cn": "11月18, 2025",
-      "date_tw": "11月18, 2025",
-      "date_en": "November 18, 2025"
-   }
+  }
   ]
 }
