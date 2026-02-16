@@ -1,7 +1,20 @@
 {
-  "last_update": "2026-02-05",
+  "last_update": "2026-02-16",
   "data": [
-    {        
+  {
+      "toast_cn": "孙哥马年发红包，1,000,000枚SUN，JST代币新春福利大放送",
+      "toast_tw": "孫哥馬年發紅包，1,000,000枚SUN，JST代幣新春福利大放送",
+      "toast_en": "Justin’s Horse Year Red Packets: 1,000,000 SUN & JST Tokens Up for Grabs!",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/55199646210457",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/55199646210457",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/55199646210457",
+      "image": "",
+      "date": "2026-02-16",
+      "date_cn": "02月16日, 2026",
+      "date_tw": "02月16日, 2026",
+      "date_en": "February 16, 2026"
+  },  
+  {        
       "toast_cn": "关于 SUN.io 智能路由系统全新升级，引入 Universal Router 与 Permit2 协议的公告",
       "toast_tw": "關於 SUN.io 智能路由系統全新升級，引入 Universal Router 與 Permit2 協議的公告",
       "toast_en": "Announcement on SUN.io Smart Router Upgrade: Introducing Universal Router & Permit2 Protocols",
@@ -39,19 +52,6 @@
       "date_cn": "1月7日, 2026",
       "date_tw": "1月7日, 2026",
       "date_en": "January 7, 2026"
-  },
-  {
-      "toast_cn": "关于 SUN.io 智能路由与 V2 路由合约升级及能量补贴调整的公告",
-      "toast_tw": "關於 SUN.io 智能路由與 V2 路由合約升級及能量補貼調整的公告",
-      "toast_en": "Announcement on the Upgrade of SUN.io Smart Router and V2 Router Contracts, and Adjustments to Energy Subsidies",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/53327183802265",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/53327183802265",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/53327183802265",
-      "image": "",
-      "date": "2025-12-30",
-      "date_cn": "12月30日, 2025",
-      "date_tw": "12月30日, 2025",
-      "date_en": "December 30, 2025"
   }
   ]
 }
