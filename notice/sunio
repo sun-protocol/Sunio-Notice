@@ -1,7 +1,21 @@
 {
-  "last_update": "2026-02-16",
+  "last_update": "2026-03-02",
   "data": [
+   
   {
+      "toast_cn": "关于 SUN.io 上线 SunSwap V4 的公告",
+      "toast_tw": "關於 SUN.io 上線 SunSwap V4 的公告",
+      "toast_en": "Announcement on the Launch of SunSwap V4 on SUN.io",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/55621682087449",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/55621682087449",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/55621682087449",
+      "image": "",
+      "date": "2026-03-02",
+      "date_cn": "03月02日, 2026",
+      "date_tw": "03月02日, 2026",
+      "date_en": "March 2, 2026"
+  }, 
+ {
       "toast_cn": "孙哥马年发红包，1,000,000枚SUN，JST代币新春福利大放送",
       "toast_tw": "孫哥馬年發紅包，1,000,000枚SUN，JST代幣新春福利大放送",
       "toast_en": "Justin’s Horse Year Red Packets: 1,000,000 SUN & JST Tokens Up for Grabs!",
@@ -39,19 +53,6 @@
       "date_cn": "1月23日, 2026",
       "date_tw": "1月23日, 2026",
       "date_en": "January 23, 2026"
-   },  
-   {
-      "toast_cn": "关于 SUN.io V2 路由合约更新部署的公告",
-      "toast_tw": "關於 SUN.io V2 路由合約更新部署的公告",
-      "toast_en": "Announcement on the Updated Deployment of SUN.io V2 Router Contract",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/53994815712281",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/53994815712281",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/53994815712281",
-      "image": "",
-      "date": "2026-01-07",
-      "date_cn": "1月7日, 2026",
-      "date_tw": "1月7日, 2026",
-      "date_en": "January 7, 2026"
-  }
+   }
   ]
 }
