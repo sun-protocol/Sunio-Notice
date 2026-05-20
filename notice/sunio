@@ -1,7 +1,19 @@
 {
-  "last_update": "2026-03-02",
+  "last_update": "2026-05-19",
   "data": [
-   
+    {        
+      "toast_cn": "关于 SUN.io Universal Router 合约升级的公告",
+      "toast_tw": "關於 SUN.io Universal Router 合約升級的公告",
+      "toast_en": "Announcement on the SUN.io Universal Router Contract Upgrade",
+      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/58065277910681",
+      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/58065277910681",
+      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/58065277910681",
+      "image": "",
+      "date": "2026-05-19",
+      "date_cn": "5月19日, 2026",
+      "date_tw": "5月19日, 2026",
+      "date_en": "May 19, 2026"
+   },
   {
       "toast_cn": "关于 SUN.io 上线 SunSwap V4 的公告",
       "toast_tw": "關於 SUN.io 上線 SunSwap V4 的公告",
@@ -40,19 +52,6 @@
       "date_cn": "2月5日, 2026",
       "date_tw": "2月5日, 2026",
       "date_en": "February 5, 2026"
-   },
-  {        
-      "toast_cn": "关于 SUN.io 上线 WBTC/USDT LP 矿池的公告",
-      "toast_tw": "關於 SUN.io 上線 WBTC/USDT LP 礦池的公告",
-      "toast_en": "Announcement on the Launch of the WBTC/USDT LP Mining Pool on SUN.io",
-      "link_cn": "https://sunio.zendesk.com/hc/zh-cn/articles/54502582770841",
-      "link_tw": "https://sunio.zendesk.com/hc/zh-cn/articles/54502582770841",
-      "link_en": "https://sunio.zendesk.com/hc/en-us/articles/54502582770841",
-      "image": "",
-      "date": "2026-01-23",
-      "date_cn": "1月23日, 2026",
-      "date_tw": "1月23日, 2026",
-      "date_en": "January 23, 2026"
    }
   ]
 }
